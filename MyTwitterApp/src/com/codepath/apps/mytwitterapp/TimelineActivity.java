@@ -59,6 +59,10 @@ public class TimelineActivity extends Activity {
 	    	startActivityForResult(i,REQUEST_CODE);
 	      break;
 
+	    case R.id.timeline_refresh:
+		      this.refresh();
+		      break;
+
 	    default:
 	      break;
 	    }

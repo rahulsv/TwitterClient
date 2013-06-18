@@ -7,10 +7,19 @@
         android:title="@string/action_settings"/>
 
     <item
+        android:id="@+id/timeline_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_refresh"
+        android:title="@string/refresh"/>
+    
+    <item
         android:id="@+id/compose_tweet"
         android:orderInCategory="100"
         android:showAsAction="always"
         android:icon="@drawable/ic_action_compose"
         android:title="@string/compose"/>
+    
+    
     
 </menu>
