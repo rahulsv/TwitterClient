@@ -6,13 +6,15 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_photos">Flickr Photos</string>
     <string name="login_label">Log in</string>
-    <string name="title_activity_timeline">TimelineActivity</string>
-    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="title_activity_timeline">My Twitter Timeline</string>
+    <string name="title_activity_compose">Compose Tweet</string>
     <string name="tweet">Tweet</string>
     <string name="compose">Compose</string>
     <string name="home">Home</string>
     <string name="cancel">Cancel</string>
     <string name="refresh">Refresh</string>
     <string name="tweet_hint">Please enter your tweet here</string>
-    
+    <string name="profile">Profile</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
 </resources>
